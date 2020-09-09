@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+}
+
+
